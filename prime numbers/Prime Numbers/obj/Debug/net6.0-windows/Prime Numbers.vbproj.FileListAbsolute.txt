@@ -1,0 +1,18 @@
+D:\C\visual studio\prime numbers\Prime Numbers\bin\Debug\net6.0-windows\Prime Numbers.exe
+D:\C\visual studio\prime numbers\Prime Numbers\bin\Debug\net6.0-windows\Prime Numbers.deps.json
+D:\C\visual studio\prime numbers\Prime Numbers\bin\Debug\net6.0-windows\Prime Numbers.runtimeconfig.json
+D:\C\visual studio\prime numbers\Prime Numbers\bin\Debug\net6.0-windows\Prime Numbers.dll
+D:\C\visual studio\prime numbers\Prime Numbers\bin\Debug\net6.0-windows\Prime Numbers.pdb
+D:\C\visual studio\prime numbers\Prime Numbers\obj\Debug\net6.0-windows\Prime Numbers.vbproj.AssemblyReference.cache
+D:\C\visual studio\prime numbers\Prime Numbers\obj\Debug\net6.0-windows\Prime_Numbers.Form1.resources
+D:\C\visual studio\prime numbers\Prime Numbers\obj\Debug\net6.0-windows\Prime Numbers.vbproj.GenerateResource.cache
+D:\C\visual studio\prime numbers\Prime Numbers\obj\Debug\net6.0-windows\Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\visual studio\prime numbers\Prime Numbers\obj\Debug\net6.0-windows\Prime Numbers.AssemblyInfoInputs.cache
+D:\C\visual studio\prime numbers\Prime Numbers\obj\Debug\net6.0-windows\Prime Numbers.AssemblyInfo.vb
+D:\C\visual studio\prime numbers\Prime Numbers\obj\Debug\net6.0-windows\Prime Numbers.vbproj.CoreCompileInputs.cache
+D:\C\visual studio\prime numbers\Prime Numbers\obj\Debug\net6.0-windows\Prime Numbers.dll
+D:\C\visual studio\prime numbers\Prime Numbers\obj\Debug\net6.0-windows\refint\Prime Numbers.dll
+D:\C\visual studio\prime numbers\Prime Numbers\obj\Debug\net6.0-windows\Prime Numbers.pdb
+D:\C\visual studio\prime numbers\Prime Numbers\obj\Debug\net6.0-windows\Prime Numbers.genruntimeconfig.cache
+D:\C\visual studio\prime numbers\Prime Numbers\obj\Debug\net6.0-windows\ref\Prime Numbers.dll
+D:\C\visual studio\prime numbers\Prime Numbers\obj\Debug\net6.0-windows\Prime_Numbers.txtresult.resources
